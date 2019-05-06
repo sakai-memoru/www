@@ -7,8 +7,13 @@ file: 1905-github-pages-with-jekyll-publishment
 
 [home](../)
 
+# **** GitHub Pagesでmarkdownを公開する１：GitHubにPagesに対応したReposを作る
+
+
 ## *** overview
 - GitHub Pagesで、markdownファイルを、Jekyll Themeで公開する。
+
+[![Image from Gyazo](https://i.gyazo.com/9e342624040c91eb80a0ccb10ee18bb1.png)](https://gyazo.com/9e342624040c91eb80a0ccb10ee18bb1)
 
 ## *** procedure
 

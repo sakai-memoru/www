@@ -6,6 +6,8 @@ file: 1905-clone-and-push-markdowns-for-jekyll-publishment
 ---
 [home](../)
 
+# **** GitHub Pagesでmarkdownを公開する２：Repositoryをcloneし,markdownをpushする
+
 ## *** overview
 - GitHub repositoryと連携して、GitHub Pagesにmarkdownファイルを公開する。
 
@@ -17,7 +19,7 @@ file: 1905-clone-and-push-markdowns-for-jekyll-publishment
     - http://sakai-memoru.hateblo.jp/entry/1905-github-pages-with-jekyll-publishment
 
 ## *** reference
-- 
+- N/A
 
 ## *** procedure
 
