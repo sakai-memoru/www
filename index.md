@@ -4,7 +4,7 @@
 # memoru's page
 
 ## *** overview
-- GitHub repository ‚ÅAmarkdown files‚ğŒöŠJI
+- GitHub repository ã§ã€markdown filesã‚’å…¬é–‹ï¼
 
 ## *** contents
 
