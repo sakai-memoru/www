@@ -4,10 +4,11 @@ date: 2019/05/06 13:45
 file: 1905-github-pages-with-jekyll-publishment
 
 ---
+
+[home](../)
+
 ## *** overview
 - GitHub Pagesで、markdownファイルを、Jekyll Themeで公開する。
-
-[![Image from Gyazo](https://i.gyazo.com/7ed63c2eecade05f371eecce2f2a3080.png)](https://gyazo.com/7ed63c2eecade05f371eecce2f2a3080)
 
 ## *** procedure
 
