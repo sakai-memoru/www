@@ -8,7 +8,7 @@ crated_date: 2019/05/06 14:14
 
 - This is a sample page with GitHub Pages and Jekyll Theme. 
 
-- [https://sakai-memoru.github.io/www/README.html](https://sakai-memoru.github.io/www/README.html)
+- [https://sakai-memoru.github.io/www/](https://sakai-memoru.github.io/www/)
 
 
 // --- end of README -- //
