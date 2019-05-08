@@ -13,6 +13,6 @@
 
 ### Jekyll 
 
-- [./INTRO.md](./INTRO.md)
+- [./TABLE.md](./TABLE.md)
 
 // --- end of index --- //
