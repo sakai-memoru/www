@@ -13,6 +13,6 @@
 
 ### Jekyll 
 
-- [./logs/index.md](./logs/index.md)
+- [./articles/index.md](./articles/index.md)
 
 // --- end of index --- //
