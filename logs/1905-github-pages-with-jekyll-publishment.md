@@ -7,23 +7,23 @@ file: 1905-github-pages-with-jekyll-publishment
 
 [home](../)
 
-# **** GitHub Pagesでmarkdownを公開する１：GitHubにPagesに対応したReposを作る
+# GitHub Pagesでmarkdownを公開する１：GitHubにPagesに対応したReposを作る
 
 
-## *** overview
+## overview
 - GitHub Pagesで、markdownファイルを、Jekyll Themeで公開する。
 
 [![Image from Gyazo](https://i.gyazo.com/9e342624040c91eb80a0ccb10ee18bb1.png)](https://gyazo.com/9e342624040c91eb80a0ccb10ee18bb1)
 
-## *** procedure
+## procedure
 
-### ** note
+### note
 - GitHubにrepositoryを作り、そのrepositoryを、GitHub Pagesとして公開。
 - GitHub RepositoryのREADME.mdを修正して、公開。
 
-### ** logs
+### logs
 
-#### * 1. New GitHub Repository
+#### 1. New GitHub Repository
 
 - create new repos named "www".
 
@@ -34,7 +34,7 @@ file: 1905-github-pages-with-jekyll-publishment
 
 [![Image from Gyazo](https://i.gyazo.com/53579963a412c944308b25c4ea7145a7.png)](https://gyazo.com/53579963a412c944308b25c4ea7145a7)
 
-#### * 2. Set the settings of repos
+#### 2. Set the settings of repos
 
 - Set GitHub Page abled and select target source.
 
@@ -56,7 +56,7 @@ file: 1905-github-pages-with-jekyll-publishment
 
 [![Image from Gyazo](https://i.gyazo.com/fe1ccac7fed689d27b072ff592876216.png)](https://gyazo.com/fe1ccac7fed689d27b072ff592876216)
 
-#### * 3. access www page
+#### 3. access www page
 
 - pulished url
     - https://sakai-memoru.github.io/www/
@@ -64,7 +64,7 @@ file: 1905-github-pages-with-jekyll-publishment
 
 [![Image from Gyazo](https://i.gyazo.com/93951c86d57ee001fa27e3dbb9c8731b.png)](https://gyazo.com/93951c86d57ee001fa27e3dbb9c8731b)
 
-#### * 4. modify README.md
+#### 4. modify README.md
 
 
 [![Image from Gyazo](https://i.gyazo.com/f0b0606520de5672d316abf3da84ae2b.png)](https://gyazo.com/f0b0606520de5672d316abf3da84ae2b)

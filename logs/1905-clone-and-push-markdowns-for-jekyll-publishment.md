@@ -6,29 +6,30 @@ file: 1905-clone-and-push-markdowns-for-jekyll-publishment
 ---
 [home](../)
 
-# **** GitHub Pagesでmarkdownを公開する２：Repositoryをcloneし,markdownをpushする
+# GitHub Pagesでmarkdownを公開する２：Repositoryをcloneし,markdownをpushする
 
-## *** overview
+## overview
+
 - GitHub repositoryと連携して、GitHub Pagesにmarkdownファイルを公開する。
 
 [![Image from Gyazo](https://i.gyazo.com/9e342624040c91eb80a0ccb10ee18bb1.png)](https://gyazo.com/9e342624040c91eb80a0ccb10ee18bb1)
 
-## *** relative posts
+## relative posts
 - 1905-github-pages-with-jekyll-publishment
     - GitHubにrepositoryを作成して、README.mdを公開してみた
     - http://sakai-memoru.hateblo.jp/entry/1905-github-pages-with-jekyll-publishment
 
-## *** reference
+## reference
 - N/A
 
-## *** procedure
+## procedure
 
-### ** note
+### note
 - Jekyllを使ってGitHub Pagesで、markdownを公開するようにしたrepositoryを、 Localにcloneして、markdownを追加して、pushして公開してみる。
 
-### ** logs
+### logs
 
-#### * git clone
+#### git clone
 
 ```
 (base) g:\workspace>git clone https://github.com/sakai-memoru/www.git
@@ -52,7 +53,7 @@ Mode                LastWriteTime         Length Name
 
 ```
 
-#### * modify index.md
+#### modify index.md
 
 ```
 (base) g:\workspace\www>type index.md
@@ -74,7 +75,7 @@ Mode                LastWriteTime         Length Name
 // --- end of index --- //
 ```
 
-#### * add /logs/1905-github-pages-with-jekyll-publishment.md, etc
+#### add /logs/1905-github-pages-with-jekyll-publishment.md, etc
 - Save target md files as UTF-8.
 
 ```
@@ -90,7 +91,7 @@ Mode                LastWriteTime         Length Name
 -a----         5/6/2019     15:32           2502 1905-github-pages-with-jekyll-publishment.md
 ```
 
-#### * create .gitignore from gibo template
+#### create .gitignore from gibo template
 
 ```
 (base) g:\workspace\www>gibo dump vim python jekyll > .gitignore
@@ -113,7 +114,7 @@ d-----         5/6/2019     15:33                logs
 -a----         5/6/2019     15:11             28 _config.yml
 ```
 
-#### * git commit and push
+#### git commit and push
 
 ```
 (base) g:\workspace\www>git status
@@ -154,7 +155,7 @@ To https://github.com/sakai-memoru/www.git
    864f39e..3f72697  master -> master
 ```
 
-#### * access url
+#### access url
 
 - index
     - https://sakai-memoru.github.io/www/ 
@@ -168,9 +169,8 @@ To https://github.com/sakai-memoru/www.git
 
 [![Image from Gyazo](https://i.gyazo.com/92e3c574ceff89ebb078aaa91c0d98ee.png)](https://gyazo.com/92e3c574ceff89ebb078aaa91c0d98ee)
 
-### ** notice
+### notice
 - mdが、utf-8でない場合など、GitHub側のJekyllのgenerationでerrorが発生すると、以下のmailが飛んでくる。（GitHubも、LocalでJekyllを動かして、正しく生成されることを確認して、pushすることを推奨している）
-
 
 [![Image from Gyazo](https://i.gyazo.com/2ef5f5af34c20cb44c8490f46d2a2423.png)](https://gyazo.com/2ef5f5af34c20cb44c8490f46d2a2423)
 
