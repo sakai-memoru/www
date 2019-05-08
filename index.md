@@ -3,15 +3,16 @@
 
 # memoru's page
 
-## *** overview
+## overview
 - GitHub repository で、markdown filesを公開！
 
-## *** contents
+## contents
 
-### ** Jekyll 
+### SUMMARY
+- [./SUMMARY.md](./SUMMARY.md)
 
-- [./logs/1905-github-pages-with-jekyll-publishment.md](./logs/1905-github-pages-with-jekyll-publishment.html)
+### Jekyll 
 
-- [./logs/1905-clone-and-push-markdowns-for-jekyll-publishment.md](./logs/1905-clone-and-push-markdowns-for-jekyll-publishment.html)
+- [./INTRO.md](./INTRO.html)
 
 // --- end of index --- //
