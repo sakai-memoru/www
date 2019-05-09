@@ -1,6 +1,6 @@
 ---
 title: Home Page
-crated_date: 2019/05/06 14:14
+created_date: 2019/05/06 14:14
 
 ---
 
@@ -10,5 +10,7 @@ crated_date: 2019/05/06 14:14
 
 - [https://sakai-memoru.github.io/www/](https://sakai-memoru.github.io/www/)
 
+
+- [https://github.com/sakai-memoru/www/wiki](https://github.com/sakai-memoru/www/wiki)
 
 // --- end of README -- //
